@@ -23,6 +23,7 @@
   },
   "rules": {
     "quotes": 0,
+    "import/no-unresolved": "off",
     "no-console": 1,
     "no-debugger": 1,
     "no-var": 1,
