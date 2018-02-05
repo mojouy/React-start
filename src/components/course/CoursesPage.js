@@ -16,6 +16,7 @@ class CoursesPage extends Component {
     browserHistory.push('/course');
   }
 
+
   render() {
     const {courses} = this.props;
     return (
